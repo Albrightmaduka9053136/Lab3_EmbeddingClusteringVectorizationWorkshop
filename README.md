@@ -1,5 +1,11 @@
 # Word Embeddings, Clustering and Vectorization Workshop
 
+# Team members:
+
+Albright Maduka Ifechukwude - 9053136
+
+Abdullahi Abdirizak Mohamed - 9082466 
+
 A comprehensive tutorial for learning word embeddings, text clustering, and vectorization techniques in Natural Language Processing (NLP).
 
 ## 📋 Overview
