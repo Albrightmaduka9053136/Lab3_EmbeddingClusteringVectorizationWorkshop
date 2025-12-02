@@ -3,5 +3,8 @@ venv/
 # Python
 __pycache__/
 *.pyc
+# Large data files
 glove/
-*.txt
+*.bin
+# GloVe embeddings
+glove/glove.6B.*.txt
